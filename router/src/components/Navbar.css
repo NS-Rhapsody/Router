@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    background-color: white;
+    justify-content: left;
+}
+
+nav a {
+    padding: 20px;
+    text-decoration: none;
+    color: #000;
+}
+
+nav a:hover {
+    background-color: rgb(48, 140, 206);
+}
+
+.active {
+    background-color: rgb(48, 140, 206);
+}

@@ -1,0 +1,16 @@
+.pesquisa {
+    width: 60%;
+    height: 30px;
+    margin-top: 20px;
+    background-color: aliceblue;
+    border: 1px grey solid;
+    border-right: none;
+}
+
+.botaoPesquisa {
+    width: 4%;
+    height: 34px;
+    background: no-repeat url(lupa.png) center;
+    background-size: 28px 28px;
+    border: 1px grey solid;
+}

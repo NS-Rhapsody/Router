@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "name": "Teste",
+      "price": "5",
+      "id": 3
+    },
+    {
+      "name": "Boina",
+      "price": "20",
+      "id": 4
+    },
+    {
+      "name": "Calça",
+      "price": "40.99",
+      "id": 5
+    },
+    {
+      "name": "Regata",
+      "price": "40.99",
+      "id": 6
+    },
+    {
+      "name": "óculos",
+      "price": "5.99",
+      "id": 7
+    },
+    {
+      "name": "Boia",
+      "price": "20",
+      "id": 8
+    },
+    {
+      "name": "Caneta",
+      "price": "8",
+      "id": 10
+    },
+    {
+      "name": "Lápis",
+      "price": "0.99",
+      "id": 11
+    },
+    {
+      "name": "Borracha",
+      "price": "0.99",
+      "id": 12
+    },
+    {
+      "name": "Cor",
+      "price": "0.99",
+      "id": 13
+    },
+    {
+      "name": "Neve",
+      "price": "50",
+      "id": 14
+    },
+    {
+      "name": "Cueca",
+      "price": "4.99",
+      "id": 15
+    },
+    {
+      "name": "AAAAAAAA",
+      "price": "50",
+      "id": 16
+    }
+  ]
+}
